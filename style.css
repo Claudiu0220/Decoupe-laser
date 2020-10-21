@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
   }
+
 .navbar-dark {
     background-color:transparent;
     color: lightblue;
@@ -58,3 +59,13 @@ img.bg{
     left: 0;
     right: 0;
 }
+
+.child2{
+    margin: auto;
+    display: block;
+    position: absolute;
+    margin-top: 20px;
+    top: auto;
+    text-align: center;
+}
+
