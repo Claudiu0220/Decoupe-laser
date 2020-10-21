@@ -1,3 +1,4 @@
+/* * { border: 1px red dotted; } */
 html {
     scroll-behavior: smooth;
   }
@@ -50,7 +51,7 @@ img.bg{
 .child{
     margin: auto;
     width: 65%;
-    height: 65px;
+    height: 55%;
     text-align: center;
     object-fit: cover;
     display: block;
@@ -67,11 +68,12 @@ img.bg{
     margin-top: 20px;
     top: auto;
     text-align: center;
+    width: fit-content;
 }
 
 .card{
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: brown;
 }
 
