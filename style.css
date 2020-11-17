@@ -99,3 +99,8 @@ img.bg{
     position:absolute;
     left: calc(-50vw + 50%);
 }
+
+.gras{
+    color: black;
+    font-weight: bold;
+}
