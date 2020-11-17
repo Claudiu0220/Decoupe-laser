@@ -104,3 +104,7 @@ img.bg{
     color: black;
     font-weight: bold;
 }
+.nom{
+    position: left;
+    font-size: 10px;
+}
